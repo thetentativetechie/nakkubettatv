@@ -1,0 +1,52 @@
+{
+  "home": {
+    "title": "NAKKUBETTA TV",
+    "title2": "NAKKUBETTA FOUNDATION",
+    "aboutTv": "Nakkubetta TV is a Cultural & Spiritual TV Channel in Nilgiri district, Tamilnadu. The Chief aim of Nakkubetta TV is to spread the Indian traditional and eternal religion, philosophy and cultural values supported by the universal ideals of modern philosopher Swami Vivekananda",
+    "aboutFoundation": "Nakkubetta Foundation is a non profitable organization engaged in Social and Human welfare",
+    "cardImage": "http://www.nakkubetta.tv/wp-content/themes/nakkubetta/assets/img/nakkubetta-logo.png",
+    "footerNotes": "Copyright 2015, Nakkubetta TV - The Nilgiris",
+    "website": "http://www.nakkubetta.tv"
+  },
+  "contact": {
+    "nbtvContact": {
+      "email": "office@nakkubetta.tv",
+      "phone1": "+914232223333",
+      "phone2": "+914222694765",
+      "website": "http://www.nakkubetta.tv",
+      "address1": {
+        "title": "REGISTERED OFFICE",
+        "line1": "No. 59/1, Maragadham Gardens",
+        "line2": "Behind Pricol & ICICI Bank",
+        "line3": "P.N.Palayam, Coimbatore – 641 020"
+      },
+      "address2": {
+        "title": "CORPORATE OFFICE",
+        "line1": "No. 319/ B, AM Building",
+        "line2": "Opp to Clock Tower, Ooty",
+        "line3": "The Nilgiris - 643 001"
+      },
+      "socialMediaLinks": {
+        "fb": "https://www.facebook.com/NakkubettaTV",
+        "youtube": "https://www.youtube.com/NakkubettaTV",
+        "email": "office@nakkubetta.tv"
+      }
+    },
+    "developerContact": {
+      "email": "umeshkumar.kumar@gmail.com",
+      "linkedIn": "https://www.linkedin.com/in/umesh-kumar-4a280168/",
+      "phone1": "919945734568",
+      "website": "https://umeshkumark.github.io",
+      "avatarImage": "https://umeshkumark.github.io/assets/img/avatar.jpg",
+      "title": "Designed & Developed By",
+      "line1": "Umesh Kumar",
+      "line2": "Kanneri Manthanai"
+    }
+  },
+  "liveTv": {
+    "url1": "http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8",
+    "url2": "http://nakkubettatv.livebox.co.in:3000/?url=http://nakkubettatv.livebox.co.in/nbtvhls/nbtv.m3u8",
+    "text1": "Rotate phone to watch in full screen",
+    "footerNotes": "Copyright 2015, Nakkubetta TV - The Nilgiris"
+  }
+}
